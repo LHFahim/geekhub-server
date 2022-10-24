@@ -1,34 +1,38 @@
 [
   {
     "id": "01",
-    "name": "Breaking News"
+    "name": "Spring Boot",
+    "img": "https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png",
+    "description": "Spring Boot is an open source Java-based framework used to create a micro Service. It is developed by Pivotal Team and is used to build stand-alone and production ready spring applications. This chapter will give you an introduction to Spring Boot and familiarizes you with its basic concepts."
   },
   {
     "id": "02",
-    "name": "Regular News"
+    "name": "C++",
+    "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/907884/retina_1708x683_cover-0816-C__Mistakes-Waldek_Newsletter-8ca5fb6eacb673aaad1fe4bfaf4ce205-2f26062f759e8698edd8c5d77b82b992.png",
+    "description": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms."
   },
   {
     "id": "03",
-    "name": "International News"
+    "name": "Java",
+    "img": "",
+    "description": ""
   },
   {
     "id": "04",
-    "name": "Sports"
+    "name": "Competitive Programming",
+    "img": "https://www.codingninjas.com/blog/wp-content/uploads/2020/11/Blog-34.png",
+    "description": "Competitive Programming is a mental sport which enables you to code a given problem under provided constraints. The purpose of this article is to guide every individual possessing a desire to excel in this sport. This article provides a detailed syllabus for Competitive Programming designed by industry experts to boost the preparation of the readers."
   },
   {
     "id": "05",
-    "name": "Entertainment"
+    "name": "Data Structure",
+    "img": "https://pd.daffodilvarsity.edu.bd/web/image/op.course/243/image_1920",
+    "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways."
   },
   {
     "id": "06",
-    "name": "Culture"
-  },
-  {
-    "id": "07",
-    "name": "Arts"
-  },
-  {
-    "id": "08",
-    "name": "All News"
+    "name": "Software Engineering",
+    "img": "https://artoftesting.com/wp-content/uploads/2020/01/software-engineering-featured.jpg",
+    "description": "Software engineering is an engineering branch associated with development of software product using well-defined scientific principles, methods and procedures. The outcome of software engineering is an efficient and reliable software product. Software project management has wider scope than software engineering process as it involves communication, pre and post delivery support etc. This tutorial should provide you basic understanding of software product, software design and development process, software project management and design complexities etc. At the end of the tutorial you should be equipped with well understanding of software engineering concepts."
   }
 ]
