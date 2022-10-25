@@ -30,3 +30,6 @@ app.get("/course-data/:id", (req, res) => {
 app.listen(port, () => {
   console.log(`Geek Hub server is listening on port ${port}`);
 });
+
+
+module.exports = app;
